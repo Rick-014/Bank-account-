@@ -1,5 +1,5 @@
 public class BankAccount {
-    private double balance; // Private variable to store balance
+    private double balance; 
 
     public BankAccount(double initialBalance) {
         if (initialBalance >= 0) {
